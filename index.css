@@ -4,6 +4,7 @@
 }
 
 body {
+  text-align: center;
   background: #acb6e5; /* fallback for old browsers */
   background: -webkit-linear-gradient(
     to right,
